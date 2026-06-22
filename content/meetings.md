@@ -25,13 +25,13 @@ In-person attendees are **required** to be fully vaccinated against [COVID-19](h
 - Mar 26, 2026 - 0x00ea
 - Apr 30, 2026 - 0x00eb
 - May 28, 2026 - 0x00ec
-- Jun 25, 2026 - 0x00ed
+- <b>Jul 02, 2026 - 0x00ed - 1 week late</b> ⚽ 
 - Jul 30, 2026 - 0x00ef
 - Aug 27, 2026 - 0x00f0
 - Sep 24, 2026 - 0x00f1
 - Oct 29, 2026 - 0x00f2
-- <span style="color:#785C33">Nov 19, 2026 - 0x00f3 - **1 week** early</span>
-- <span style="color:#21FDE7">Dec 17, 2026 - 0x00f4 - **2 weeks** early</span>
+- <span style="color:#785C33">Nov 19, 2026 - 0x00f3 - **1 week** early 🦃 </span>
+- <span style="color:#21FDE7">Dec 17, 2026 - 0x00f4 - **2 weeks** early 🎁 </span>
 
 *Usually, AHA! slides a week when it collides with a holiday. This will likely be the case in Oct, Nov, & Dec.*
 
