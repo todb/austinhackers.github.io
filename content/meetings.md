@@ -25,7 +25,7 @@ In-person attendees are **required** to be fully vaccinated against [COVID-19](h
 - Mar 26, 2026 - 0x00ea
 - Apr 30, 2026 - 0x00eb
 - May 28, 2026 - 0x00ec
-- <b> Jul 02, 2026 - 0x00ed - **1 week late** ⚽ </b>
+- <b>Jul 02, 2026 - 0x00ed - 1 week late</b> ⚽ 
 - Jul 30, 2026 - 0x00ef
 - Aug 27, 2026 - 0x00f0
 - Sep 24, 2026 - 0x00f1
